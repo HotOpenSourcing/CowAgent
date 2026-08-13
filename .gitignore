@@ -1,6 +1,5 @@
 .DS_Store
 .idea
-.vscode
 .venv
 .vs
 __pycache__/
@@ -69,3 +68,4 @@ desktop/resources/.icon-work/
 desktop/resources/bin/
 
 .wrangler/
+config.bat
